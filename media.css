@@ -1,0 +1,87 @@
+@media only screen and (max-width: 360px){
+    .img-adj{
+        width: 100%;
+        padding: 0px;
+      
+     
+    }
+    
+    body{
+        font-size: 0.6rem;
+    }
+    td,th,tr,table{
+        padding: 0px;
+        font-size: 0.3rem;
+        font-weight: bold;
+    }
+    .about-self{
+        padding-left: 0px;
+    }
+    .passport{
+        padding: 0px;
+        width: 80%;
+    }
+}
+@media only screen and (max-width: 450px){
+    .img-adj{
+        width: 100%;
+        padding: 0px;
+      
+     
+    }
+    
+    body{
+        font-size: 0.6rem;
+    }
+    td,th,tr,table{
+        padding: 0px;
+        font-size: 0.35rem;
+        font-weight: bold;
+    }
+    .about-self{
+        padding-left: 0px;
+    }
+    .passport{
+        padding: 0px;
+        width: 80%;
+    }
+}
+@media only screen and (max-width: 768px){
+    .img-adj{
+        width: 100%;
+        padding: 0px;
+        padding-right: 10px;
+      
+    }
+    }/*
+    @media only screen and (max-width: 540px){
+        .img-adj{
+            width: 100%;
+            padding: 0px;
+            padding-right: 40px;
+        }
+        table,th,tr,td{
+            font-size: 0.5rem;
+        }
+        body{
+            font-size: 0.6rem;
+        }
+    }*/
+    @media only screen and (max-width:280px){
+        .img-adj{
+            width: 100%;
+            padding-right: 0px;
+        }
+        table,th,tr,td{
+            font-size: 0.2rem;
+        }
+    }
+    @media only screen and (max-width:320px){
+        .img-adj{
+            width: 100%;
+            padding-right: 50px;
+        }
+        table,th,tr,td{
+            font-size: 0.2rem;
+        }
+    }
